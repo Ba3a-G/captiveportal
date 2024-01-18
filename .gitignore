@@ -1,0 +1,4 @@
+node_modules
+db/*
+.env
+pnpm-lock.yaml
